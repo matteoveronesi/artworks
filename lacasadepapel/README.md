@@ -117,11 +117,11 @@ Version names meaning:
 <details>
   <summary><b>Changes</b></summary>
   <ul>
-    <li>Removed the < fileinfo > tags from the episode files</li>
-    <li>Added director & credits tags where missing</li>
+    <li>Removed the <b>fileinfo</b> tags from the episode files</li>
+    <li>Added <b>director</b> & <b>credits</b> tags where missing</li>
     <li>Updated show ratings</li>
-    <li>S03E04-05 fixed wrong titles (they were taken from TMDb which are different from Netflix)</li>
-    <li>Added/updated S01-02 episode plots with the ones from Netflix</li>
+    <li><b>S03E04-05</b> fixed wrong titles (they were taken from TMDb which are different from Netflix)</li>
+    <li>Added/updated <b>S01-02</b> episode plots with the ones from Netflix</li>
     <li>Removed unnecessary/wrong tags</li>
     <li>Added artworks</li>
   </ul>
