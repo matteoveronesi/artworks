@@ -8,13 +8,14 @@
 
 <p align="center">
   <a href="#changelog"><img src="assets/latest-v1.0.0-success.svg"></a>
-  <a href="#"><img src="assets/lang-eng-ita-orange.svg"></a>
+  <a href="#"><img src="assets/lang-eng_ita_spa-orange.svg"></a>
   <a href="https://paypal.me/dreadlord"><img src="assets/support-paypal-blue.svg"></a>
 </p><br>
 
 <h4 align="center">
   <a href="#documentation">Documentation</a> •
   <a href="#artworks">Artworks</a> •
+  <a href="#downloads">Downloads</a> •
   <a href="#versions">Versions</a> •
   <a href="#changelog">Changelog</a> •
   <a href="#contributing">Contributing</a> •
@@ -28,7 +29,7 @@
 ## Documentation
 Thanks for interesting, sadly internet databases don't have a great option for different versions of a tv show like in this case, so i made an entire project on it based on the files made by **[Karellen](https://forum.kodi.tv/showthread.php?tid=351738)**.
 
-This project include artworks and .nfo files for Kodi v18+, but feel free to use/change it as you want. Any help to translate/export to other media center or spread this project is highly appreciated, see **[Contributing](#contributing)**.
+This project include artworks and .nfo files (Kodi v18+) of the first 4 seasons, but feel free to use/change it as you want. Any help to translate/export to other media center or spread this project is highly appreciated, see **[Contributing](#contributing)**.
 
 Read the other sections for important info, instructions are described in each version release notes.
 
@@ -76,17 +77,47 @@ These are the fanarts included:
 `3840x2160/5120x2880 fanartXX.jpg`
 ![](assets/previews/fanart.jpg)![](assets/previews/fanart1.jpg)![](assets/previews/fanart2.jpg)![](assets/previews/fanart3.jpg)![](assets/previews/fanart4.jpg)![](assets/previews/fanart5.jpg)![](assets/previews/fanart6.jpg)![](assets/previews/fanart7.jpg)![](assets/previews/fanart8.jpg)![](assets/previews/fanart9.jpg)
 
-These fanart are **only** included in the **[v1.0.0-pck-vlt-zxx](https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-pck-vlt-zxx)** version:
+These fanart are **only** included in the **[Vault Pack](#downloads)**:
 
 `3840x2160 fanartXX.jpg` 
 ![](assets/previews/fanart10.jpg)![](assets/previews/fanart11.jpg)![](assets/previews/fanart12.jpg)![](assets/previews/fanart13.jpg)![](assets/previews/fanart14.jpg)![](assets/previews/fanart15.jpg)![](assets/previews/fanart16.jpg)![](assets/previews/fanart17.jpg)![](assets/previews/fanart18.jpg)![](assets/previews/fanart19.jpg)![](assets/previews/fanart20.jpg)![](assets/previews/fanart21.jpg)![](assets/previews/fanart22.jpg)![](assets/previews/fanart23.jpg)![](assets/previews/fanart24.jpg)![](assets/previews/fanart25.jpg)![](assets/previews/fanart26.jpg)![](assets/previews/fanart27.jpg)![](assets/previews/fanart28.jpg)
 
 </details>
 
+## Downloads
+
+### Instructions for .nfo downloads
+Extract the attached zip file (it contains a folder named with the version), then add your video files on it, divided by season, be sure that every episode file name is like `<Money Heist in your language> (2017) SXXEXX` no exception, or something may not work (**[read here](https://kodi.wiki/view/Naming_video_files)**). Now you can move the `<Money Heist in your language> (2017)` folder into your library and if you already had it just do the "scan for new content" option in it's library source menu, otherwise simply rescan your library.
+
+### English
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-eng/cdp-v1.0.0-art-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/art-eng.png" height="36px" style="margin-right:10px"></a>
+cdp-v1.0.0-art-eng.zip (9,3MB)
+
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-eng/cdp-v1.0.0-nfo-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/nfo-eng.png" height="36px"></a>
+cdp-v1.0.0-nfo-eng.zip (25,9MB)
+<br>
+
+### Italian
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-ita/cdp-v1.0.0-art-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/art-ita.png" height="36px" style="margin-right:10px"></a>
+cdp-v1.0.0-art-ita.zip (9,4MB)
+
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-ita/cdp-v1.0.0-nfo-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/nfo-ita.png" height="36px"></a>
+cdp-v1.0.0-nfo-ita.zip (26,0MB)
+<br>
+
+### Spanish
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-spa/cdp-v1.0.0-art-spa.zip" style="all:unset; cursor:pointer;"><img src="assets/art-spa.png" height="36px"></a>
+cdp-v1.0.0-art-spa.zip (9,4MB)
+<br>
+
+### Extra Packs
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-pck-vlt-zxx/cdp-v1.0.0-pck-vlt-zxx.zip" style="all:unset; cursor:pointer;"><img src="assets/pck-vlt.png" height="36px"></a>
+cdp-v1.0.0-pck-vlt-zxx.zip (10,2MB)
+<br>
+
 ## Versions
 The project is divided based on the content in different version types:
 
-- **cdp-vX.X.X-lang**
 - **cdp-vX.X.X-nfo-lang**
 - **cdp-vX.X.X-art-lang**
 - **cdp-vX.X.X-pck-name-lang**
@@ -118,17 +149,13 @@ Version names meaning:
 </details>
 
 <details open>
-  <summary><b>Packages</b></summary>
+  <summary><b>Releases</b></summary>
   <ul><b>
-    <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-und">cdp-v1.0.0-und</a></li>
-    <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-eng">cdp-v1.0.0-eng</a></li>
-    <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-ita">cdp-v1.0.0-ita</a></li>
-    <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-nfo-und">cdp-v1.0.0-nfo-und</a></li>
     <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-nfo-eng">cdp-v1.0.0-nfo-eng</a></li>
     <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-nfo-ita">cdp-v1.0.0-nfo-ita</a></li>
-    <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-art-und">cdp-v1.0.0-art-und</a></li>
     <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-art-eng">cdp-v1.0.0-art-eng</a></li>
     <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-art-ita">cdp-v1.0.0-art-ita</a></li>
+    <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-art-und">cdp-v1.0.0-art-spa</a></li>
     <li><a href="https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-pck-vlt-zxx">cdp-v1.0.0-pck-vlt-zxx</a></li>
   </b></ul>
 </details>
@@ -147,7 +174,7 @@ Before starting you may want to take a better look at some wikis about **.nfo** 
 Just download this file and translate it as you want and upload it on the **[issues](https://github.com/matteoveronesi/artworks/issues)** page making a new issue, be sure to add a comment, how you translated it, **language** code/name and the **version** you used (latest is cdp-v1.0.0).
 
 ### Translate the .nfo files in your language
-Download the latest **[nfo-und](https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-nfo-und)** version. The tags that needs to be edited in each file are listed below, for an easier work these are already empty.
+Download the latest **[nfo](Downloads)** version in your favourite language. The tags that needs to be edited in each file are listed below:
 
 **tvshow.nfo**
 ```html
@@ -164,7 +191,6 @@ Download the latest **[nfo-und](https://github.com/matteoveronesi/artworks/relea
 <plot></plot>
 ```
 
-I also suggest to download the **[nfo-eng](https://github.com/matteoveronesi/artworks/releases/tag/cdp-v1.0.0-nfo-eng)** version to have a better idea of the final result.
 Using Netflix's site as a main resource is a must. If the show is not present in your language you can translate it (google & co is not liked but accepted, please specify it when you submit your work). The **[Links](#links)** below should be enough.
 
 If you think that other tags should be modified, please post a new **[issue](https://github.com/matteoveronesi/artworks/issues)** about it.
@@ -184,7 +210,8 @@ Thanks for reading.
 - **[Fanart.tv](https://fanart.tv/series/327417/la-casa-de-papel/)**
 
 ## Credits
-- **[Karellen](https://github.com/KarellenX)** for the **[.nfo files](https://forum.kodi.tv/showthread.php?tid=351738)**
+- **.nfo files** by **[Karellen](https://forum.kodi.tv/showthread.php?tid=351738)**
+- **Flags** by **[Roundicons](https://www.flaticon.com/packs/flags-2)**, **[Freepik](https://www.flaticon.com/free-icon/world_52349)** 
 
 ## License
 This project is licensed under the GPL-3.0 License. See the **[LICENSE](LICENSE)** file for details.
