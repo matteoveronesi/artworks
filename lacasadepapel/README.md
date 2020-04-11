@@ -49,37 +49,47 @@ If you don't know nothing about Kodi, .nfo files or artwork... well, these may h
 These are the artworks that you will find in this project:
 
 `3784x700 banner.jpg`
+
 ![](assets/previews/bn.jpg)
 
 `1944x1104 clearart.png`
+
 ![](assets/previews/ca.png)
 
 `1440x558 clearlogo.png`
+
 ![](assets/previews/cl.png)
 
 `2592x1458 landscape.jpg`
+
 ![](assets/previews/ls.jpg)
 
 `1000x1500 poster.jpg`
+
 ![](assets/previews/ps.jpg)
 
 `4325x800 seasonXX-banner.jpg`
+
 ![](assets/previews/sb.jpg)
 
 `1920x1080 seasonXX-landscape.jpg`
+
 ![](assets/previews/sl.jpg)
 
 `1000x1500 seasonXX-poster.jpg`
+
 ![](assets/previews/sp.jpg)
 
 These are the fanarts included:
 
 `3840x2160/5120x2880 fanartXX.jpg`
+
 ![](assets/previews/fanart.jpg)![](assets/previews/fanart1.jpg)![](assets/previews/fanart2.jpg)![](assets/previews/fanart3.jpg)![](assets/previews/fanart4.jpg)![](assets/previews/fanart5.jpg)![](assets/previews/fanart6.jpg)![](assets/previews/fanart7.jpg)![](assets/previews/fanart8.jpg)![](assets/previews/fanart9.jpg)
 
 These fanart are **only** included in the **[Vault Pack](#downloads)**:
 
 `3840x2160 fanartXX.jpg` 
+
 ![](assets/previews/fanart10.jpg)![](assets/previews/fanart11.jpg)![](assets/previews/fanart12.jpg)![](assets/previews/fanart13.jpg)![](assets/previews/fanart14.jpg)![](assets/previews/fanart15.jpg)![](assets/previews/fanart16.jpg)![](assets/previews/fanart17.jpg)![](assets/previews/fanart18.jpg)![](assets/previews/fanart19.jpg)![](assets/previews/fanart20.jpg)![](assets/previews/fanart21.jpg)![](assets/previews/fanart22.jpg)![](assets/previews/fanart23.jpg)![](assets/previews/fanart24.jpg)![](assets/previews/fanart25.jpg)![](assets/previews/fanart26.jpg)![](assets/previews/fanart27.jpg)![](assets/previews/fanart28.jpg)
 
 </details>
@@ -138,11 +148,11 @@ Version names meaning:
 <details>
   <summary><b>Changes</b></summary>
   <ul>
-    <li>Removed the < fileinfo > tags from the episode files</li>
-    <li>Added director & credits tags where missing</li>
+    <li>Removed the <b>fileinfo</b> tags from the episode files</li>
+    <li>Added <b>director</b> & <b>credits</b> tags where missing</li>
     <li>Updated show ratings</li>
-    <li>S03E04-05 fixed wrong titles (they were taken from TMDb which are different from Netflix)</li>
-    <li>Added/updated S01-02 episode plots with the ones from Netflix</li>
+    <li><b>S03E04-05</b> fixed wrong titles (they were taken from TMDb which are different from Netflix)</li>
+    <li>Added/updated <b>S01-02</b> episode plots with the ones from Netflix</li>
     <li>Removed unnecessary/wrong tags</li>
     <li>Added artworks</li>
   </ul>
