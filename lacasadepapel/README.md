@@ -98,31 +98,43 @@ These fanart are **only** included in the **[Vault Pack](#downloads)**:
 
 ### Instructions for .nfo downloads
 Extract the attached zip file (it contains a folder named with the version), then add your video files on it, divided by season, be sure that every episode file name is like `<Money Heist in your language> (2017) SXXEXX` no exception, or something may not work (**[read here](https://kodi.wiki/view/Naming_video_files)**). Now you can move the `<Money Heist in your language> (2017)` folder into your library and if you already had it just do the "scan for new content" option in it's library source menu, otherwise simply rescan your library.
+<br>
+<br>
 
 ### English
 <a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-eng/cdp-v1.0.0-art-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/art-eng.png" height="36px" style="margin-right:10px"></a>
+<br>
 cdp-v1.0.0-art-eng.zip (9,3MB)
 
 <a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-eng/cdp-v1.0.0-nfo-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/nfo-eng.png" height="36px"></a>
+<br>
 cdp-v1.0.0-nfo-eng.zip (25,9MB)
+<br>
 <br>
 
 ### Italian
 <a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-ita/cdp-v1.0.0-art-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/art-ita.png" height="36px" style="margin-right:10px"></a>
+<br>
 cdp-v1.0.0-art-ita.zip (9,4MB)
 
 <a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-ita/cdp-v1.0.0-nfo-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/nfo-ita.png" height="36px"></a>
+<br>
 cdp-v1.0.0-nfo-ita.zip (26,0MB)
+<br>
 <br>
 
 ### Spanish
 <a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-spa/cdp-v1.0.0-art-spa.zip" style="all:unset; cursor:pointer;"><img src="assets/art-spa.png" height="36px"></a>
+<br>
 cdp-v1.0.0-art-spa.zip (9,4MB)
+<br>
 <br>
 
 ### Extra Packs
 <a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-pck-vlt-zxx/cdp-v1.0.0-pck-vlt-zxx.zip" style="all:unset; cursor:pointer;"><img src="assets/pck-vlt.png" height="36px"></a>
+<br>
 cdp-v1.0.0-pck-vlt-zxx.zip (10,2MB)
+<br>
 <br>
 
 ## Versions
