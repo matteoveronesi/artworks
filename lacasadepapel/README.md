@@ -196,7 +196,7 @@ Before starting you may want to take a better look at some wikis about **.nfo** 
 Just download this file and translate it as you want and upload it on the **[issues](https://github.com/matteoveronesi/artworks/issues)** page making a new issue, be sure to add a comment, how you translated it, **language** code/name and the **version** you used (latest is cdp-v1.0.0).
 
 ### Translate the .nfo files in your language
-Download the latest **[nfo](Downloads)** version in your favourite language. The tags that needs to be edited in each file are listed below:
+Download the latest **[nfo](#downloads)** version in your favourite language. The tags that needs to be edited in each file are listed below:
 
 **tvshow.nfo**
 ```html
