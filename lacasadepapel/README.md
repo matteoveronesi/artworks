@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="600px" src="assets/eng.png">
+  <img width="600px" src="assets/logo/eng.png">
 </h1>
 
 <h4 align="center">
@@ -7,9 +7,9 @@
 </h4>
 
 <p align="center">
-  <a href="#changelog"><img src="assets/latest-v1.0.0-success.svg"></a>
-  <a href="#"><img src="assets/lang-eng_ita_spa-orange.svg"></a>
-  <a href="https://paypal.me/dreadlord"><img src="assets/support-paypal-blue.svg"></a>
+  <a href="#changelog"><img src="assets/shields/latest-v1.0.0-success.svg"></a>
+  <a href="#"><img src="assets/shields/lang-eng_ita_spa-orange.svg"></a>
+  <a href="https://paypal.me/dreadlord"><img src="assets/shields/support-paypal-blue.svg"></a>
 </p><br>
 
 <h4 align="center">
@@ -70,15 +70,15 @@ These are the artworks that you will find in this project:
 
 `4325x800 seasonXX-banner.jpg`
 
-![](assets/previews/sb.jpg)
+![](assets/previews/sb1.jpg)![](assets/previews/sb2.jpg)![](assets/previews/sb3.jpg)![](assets/previews/sb4.jpg)
 
 `1920x1080 seasonXX-landscape.jpg`
 
-![](assets/previews/sl.jpg)
+![](assets/previews/sl1.jpg)![](assets/previews/sl2.jpg)![](assets/previews/sl3.jpg)![](assets/previews/sl4.jpg)
 
 `1000x1500 seasonXX-poster.jpg`
 
-![](assets/previews/sp.jpg)
+![](assets/previews/sp1.jpg)![](assets/previews/sp2.jpg)![](assets/previews/sp3.jpg)![](assets/previews/sp4.jpg)
 
 These are the fanarts included:
 
@@ -102,36 +102,36 @@ Extract the attached zip file (it contains a folder named with the version), the
 <br>
 
 ### English
-<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-eng/cdp-v1.0.0-art-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/art-eng.png" height="36px" style="margin-right:10px"></a>
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-eng/cdp-v1.0.0-art-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/buttons/art-eng.png" height="36px" style="margin-right:10px"></a>
 <br>
 cdp-v1.0.0-art-eng.zip (9,3MB)
 
-<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-eng/cdp-v1.0.0-nfo-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/nfo-eng.png" height="36px"></a>
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-eng/cdp-v1.0.0-nfo-eng.zip" style="all:unset; cursor:pointer;"><img src="assets/buttons/nfo-eng.png" height="36px"></a>
 <br>
 cdp-v1.0.0-nfo-eng.zip (25,9MB)
 <br>
 <br>
 
 ### Italian
-<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-ita/cdp-v1.0.0-art-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/art-ita.png" height="36px" style="margin-right:10px"></a>
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-ita/cdp-v1.0.0-art-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/buttons/art-ita.png" height="36px" style="margin-right:10px"></a>
 <br>
 cdp-v1.0.0-art-ita.zip (9,4MB)
 
-<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-ita/cdp-v1.0.0-nfo-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/nfo-ita.png" height="36px"></a>
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-nfo-ita/cdp-v1.0.0-nfo-ita.zip" style="all:unset; cursor:pointer;"><img src="assets/buttons/nfo-ita.png" height="36px"></a>
 <br>
 cdp-v1.0.0-nfo-ita.zip (26,0MB)
 <br>
 <br>
 
 ### Spanish
-<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-spa/cdp-v1.0.0-art-spa.zip" style="all:unset; cursor:pointer;"><img src="assets/art-spa.png" height="36px"></a>
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-art-spa/cdp-v1.0.0-art-spa.zip" style="all:unset; cursor:pointer;"><img src="assets/buttons/art-spa.png" height="36px"></a>
 <br>
 cdp-v1.0.0-art-spa.zip (9,4MB)
 <br>
 <br>
 
 ### Extra Packs
-<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-pck-vlt-zxx/cdp-v1.0.0-pck-vlt-zxx.zip" style="all:unset; cursor:pointer;"><img src="assets/pck-vlt.png" height="36px"></a>
+<a href="https://github.com/matteoveronesi/artworks/releases/download/cdp-v1.0.0-pck-vlt-zxx/cdp-v1.0.0-pck-vlt-zxx.zip" style="all:unset; cursor:pointer;"><img src="assets/buttons/pck-vlt.png" height="36px"></a>
 <br>
 cdp-v1.0.0-pck-vlt-zxx.zip (10,2MB)
 <br>
