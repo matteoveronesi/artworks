@@ -145,13 +145,13 @@ The project is divided based on the content in different version types:
 - **cdp-vX.X.X-pck-name-lang**
 
 Version names meaning:
-- **[cdp]** is the code used for this project, include it when adding an issue.
+- **[cdp]** is the code used for this project, include it when adding an issue
 - **[vX.X.X]** is the **[SemVer](http://semver.org/)** code of the content's version
 - **[lang]** is the **[ISO 639-2/B](https://www.loc.gov/standards/iso639-2/php/code_list.php)** code of the content's language
 - **[nfo]** means it contains only .nfo files
 - **[art]** means it contains only artworks
-- **[pck]** means it's an extra content pack, may contain different files.
-- **[name]** is the 3-characters name of the extra pack.
+- **[pck]** means it's an extra content pack, may contain different files
+- **[name]** is the 3-characters name of the extra pack
 
 ## Changelog 
 
