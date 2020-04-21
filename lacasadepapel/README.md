@@ -232,7 +232,7 @@ Thanks for reading.
 - **[Fanart.tv](https://fanart.tv/series/327417/la-casa-de-papel/)**
 
 ## Credits
-- **.nfo files** by **[Karellen](https://forum.kodi.tv/showthread.php?tid=351738)**
+- **English .nfo files** by **[Karellen](https://forum.kodi.tv/showthread.php?tid=351738)**
 - **Flags** by **[Roundicons](https://www.flaticon.com/packs/flags-2)**, **[Freepik](https://www.flaticon.com/free-icon/world_52349)** 
 
 ## License
