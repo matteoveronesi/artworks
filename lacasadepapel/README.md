@@ -236,4 +236,4 @@ Thanks for reading.
 - **Flags** by **[Roundicons](https://www.flaticon.com/packs/flags-2)**, **[Freepik](https://www.flaticon.com/free-icon/world_52349)** 
 
 ## License
-This project is licensed under the GPL-3.0 License. See the **[LICENSE](LICENSE)** file for details.
+This project is licensed under the GPL-3.0 License. See the **[LICENSE](../LICENSE)** file for details.
