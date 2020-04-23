@@ -98,8 +98,9 @@ These fanart are **only** included in the **[Vault Pack](#downloads)**:
 
 ### Instructions for .nfo downloads
 Extract the attached zip file (it contains a folder named with the version), then add your video files on it, divided by season, be sure that every episode file name is like `<Money Heist in your language> (2017) SXXEXX` no exception, or something may not work (**[read here](https://kodi.wiki/view/Naming_video_files)**). Now you can move the `<Money Heist in your language> (2017)` folder into your library and if you already had it just do the "scan for new content" option in it's library source menu, otherwise simply rescan your library. 
-Your files should look as shown here (click to expand):
-<a href="https://raw.githubusercontent.com/matteoveronesi/artworks/master/lacasadepapel/assets/other/files.png" style="all:unset; cursor:pointer;"><img src="assets/other/files.png" height="300px"></a>
+Your files should look as shown here:
+
+<a href="https://raw.githubusercontent.com/matteoveronesi/artworks/master/lacasadepapel/assets/other/files.png" style="all:unset; cursor:pointer;"><img src="assets/other/files.png"></a>
 <br>
 <br>
 
